@@ -1,0 +1,9 @@
+Write C++ program that save students’ data in a list, ex: id, name, grade; then after taking the data of all students, 
+•	Calculate grades average 
+•	Separate between passed and failed students in 2 different lists, student passed if his grade is 50 or more
+•	Recalculate the average of the passed students
+•	Display the names of the student(s) getting the maximum grade.
+Your program must include the following functions (also other functions can be added as needed)
+•	to add a student
+•	to calculate grades average
+•	to get the students having the maximum grade
